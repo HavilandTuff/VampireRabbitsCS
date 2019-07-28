@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/tabaka/Programowanie/CSharp/VampireRabbitsCS/VampireRabbitsCS/VampireRabbitsCS.csproj": {}
+    "/home/karol/Projects/CSprojects/VampireRabbitsCS/VampireRabbitsCS/VampireRabbitsCS.csproj": {}
   },
   "projects": {
-    "/home/tabaka/Programowanie/CSharp/VampireRabbitsCS/VampireRabbitsCS/VampireRabbitsCS.csproj": {
+    "/home/karol/Projects/CSprojects/VampireRabbitsCS/VampireRabbitsCS/VampireRabbitsCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tabaka/Programowanie/CSharp/VampireRabbitsCS/VampireRabbitsCS/VampireRabbitsCS.csproj",
+        "projectUniqueName": "/home/karol/Projects/CSprojects/VampireRabbitsCS/VampireRabbitsCS/VampireRabbitsCS.csproj",
         "projectName": "VampireRabbitsCS",
-        "projectPath": "/home/tabaka/Programowanie/CSharp/VampireRabbitsCS/VampireRabbitsCS/VampireRabbitsCS.csproj",
-        "packagesPath": "/home/tabaka/.nuget/packages/",
-        "outputPath": "/home/tabaka/Programowanie/CSharp/VampireRabbitsCS/VampireRabbitsCS/obj/",
+        "projectPath": "/home/karol/Projects/CSprojects/VampireRabbitsCS/VampireRabbitsCS/VampireRabbitsCS.csproj",
+        "packagesPath": "/home/karol/.nuget/packages/",
+        "outputPath": "/home/karol/Projects/CSprojects/VampireRabbitsCS/VampireRabbitsCS/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/tabaka/.nuget/NuGet/NuGet.Config"
+          "/home/karol/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
